@@ -1,0 +1,17 @@
+{
+  "name": "GridWorld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node src/app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "qs": "^6.10.3"
+  },
+  "type": "module"
+}
